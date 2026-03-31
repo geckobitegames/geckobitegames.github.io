@@ -7,6 +7,10 @@ bidmachine.io, 63725, DIRECT
 google.com, pub-2521901905326274, DIRECT, f08c47fec0942fa0
 google.com, pub-8132300908142761, DIRECT, f08c47fec0942fa0
 
+#dictator2
+google.com, pub-5071629708669719, DIRECT, f08c47fec0942fa0
+
+
 ironsrc.com, 136645, Direct
 
 #Facebook
